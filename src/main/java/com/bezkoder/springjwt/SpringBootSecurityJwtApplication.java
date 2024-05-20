@@ -8,6 +8,7 @@ public class SpringBootSecurityJwtApplication {
 
 	public static void main(String[] args) {
     SpringApplication.run(SpringBootSecurityJwtApplication.class, args);
+    System.out.println("hi");
 	}
 
 }
